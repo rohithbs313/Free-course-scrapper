@@ -1,4 +1,4 @@
-# Free-course-s# Udemy Course Grabber
+# Free-course-scrapper
 
 ## Description
 Your will to enroll in a Udemy course is here, but the money isn't? Search no more! This python program searches for your desired course in more than [insert big number here] websites, compares the last updated date, and gives you the download link of the latest one back, but you also have the choice to see the other ones as well!
@@ -18,7 +18,7 @@ apt-get install git
 ```
 ### Install instructions
 ```git
-git clone https://github.com/keethesh/UdemyCourseGrabber.git
+git clone https://github.com/rohithbs313/Free-course-scrapper.git
 ```
 ```bash
 cd UdemyCourseGrabber
