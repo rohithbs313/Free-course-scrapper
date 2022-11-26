@@ -1,0 +1,5 @@
+tqdm
+lxml
+aiohttp[speedups]
+validators
+pyperclip
