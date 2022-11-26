@@ -21,7 +21,7 @@ apt-get install git
 git clone https://github.com/rohithbs313/Free-course-scrapper.git
 ```
 ```bash
-cd UdemyCourseGrabber
+cd Free-course-scrapper
 pip3 install -r requirements.txt
 ```
 
